@@ -1,6 +1,12 @@
 <?php
     /**
      * BitTorrent Sync Client
+     * @author sergeyfast
+     * @version 1.0
+     *
+     * Not Implemented Methods:
+     *  setSettings
+     *  setFolderPreferences
      */
     class BTSyncClient {
 
